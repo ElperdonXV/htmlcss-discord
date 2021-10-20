@@ -131,15 +131,31 @@ a.btn.dark:focus {
 }
 
 .col-img{
-    width: 60%;
+    width: 70%;
     margin-left: 2em;
 }
 
-.col-text{
-    width: calc(40% - 2em);
-    padding-top: 10em;
+.col-img img{
+    height: 70%;
+    padding: 8em 0;
+    padding-left: 5em;
 }
 
-.col-img img{
-    width: 100%;
+.col-text{
+    width: calc(30% - 2em);
+    padding: 10em 0;
+}
+
+.col-text h2{
+    font-size: 3em;
+    font-weight: bold;
+    margin-bottom: 1em;
+}
+
+.col-text p{
+    font-size: 1.3em;
+}
+
+.bg-grey{
+    background-color: lightgray;
 }
