@@ -206,3 +206,11 @@ a.btn.blue:focus {
 .dark{
     background-color: black;
 }
+
+.footer-big-col{
+    width: calc((100% / 5) *2 );
+}
+
+footer-big-col{
+    width: calc( 100% / 5 );
+}
