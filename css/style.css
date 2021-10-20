@@ -194,6 +194,7 @@ a.btn.dark:focus {
 a.btn.blue{
     background-color: #5865f2;
     color: white;
+    margin-bottom: 5em;
 }
 
 
@@ -256,3 +257,10 @@ a.btn.blue:focus {
     font-size: 1em;
 }
 
+hr {
+  display: block;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+  border-width: 3px;
+  border-color: #7289DA;
+}
