@@ -257,10 +257,39 @@ a.btn.blue:focus {
     font-size: 1em;
 }
 
+.lingua{
+    margin: 1em 0;
+}
+
+.lingua img{
+    height: 1em;
+}
+
+.lingua span{
+    color: white;
+}
+
+.social{
+    list-style: none;
+}
+
+.social li{
+    display: inline-block;
+    margin-right: 1em;
+}
+
+.social a{
+    color:white;
+}
+
+
+
 hr {
   display: block;
+  width: 100%;
   margin-top: 0.5em;
   margin-bottom: 0.5em;
-  border-width: 3px;
+  border-width: 1px;
   border-color: #7289DA;
 }
+
