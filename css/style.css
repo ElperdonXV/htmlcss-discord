@@ -142,7 +142,7 @@ a.btn.dark:focus {
 }
 
 .col-text{
-    width: calc(30% - 2em);
+    width: calc(40% - 7em);
     padding: 10em 0;
 }
 
