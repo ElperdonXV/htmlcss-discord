@@ -293,3 +293,10 @@ hr {
   border-color: #7289DA;
 }
 
+.float-right{
+    float: right;
+}
+
+.bottom-footer{
+    margin-top: 2em;
+}
