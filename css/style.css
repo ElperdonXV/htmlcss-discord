@@ -159,3 +159,29 @@ a.btn.dark:focus {
 .bg-grey{
     background-color: lightgray;
 }
+
+.txt-center{
+    text-align: center;
+}
+
+.txt-box{
+    padding-top: 10em;
+    width: 50%;
+    margin: 0 auto;
+}
+
+.txt-box h2{
+    font-size: 3em;
+    font-weight: bold;
+    margin-bottom: 1em;
+    
+}
+
+.txt-box p{
+    font-size: 1.3em;
+}
+
+.container.txt-center img{
+    width: 100%;
+}
+
